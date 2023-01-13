@@ -1,0 +1,40 @@
+{
+  "usuario": [
+    {
+      "id": 0,
+      "login": "drogariaspachecosaocristovao",
+      "senha": "12345678",
+      "Nome": "Drogarias Pacheco",
+      "email": "drogariaspacheco@gmail.com",
+      "unidade": "São Cristóvão",
+      "rua": "São Luiz Gonzaga",
+      "numero": "196",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro",
+      "CEP": "20910-000"
+      
+    }
+  ],
+  "dados": [
+    {
+      "id": 0,
+      "produtos": [
+        {
+        "produto": "Creme para pentear Salon Lin definição intensa cabelos cacheados e crespos com 1kg",
+        "imagem":"https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fc%2Fr%2Fcreme-para-pentear-salon-line-defini_o-intensa-1kg-7898623950764-_1_.jpg&w=256&q=75",
+        "marca": "salon line",
+        "valor": "R$13,99",
+        "descrição":"Define e modela os cachos e crespos. Hidrata, desembaraça, controla o frizz e dá brilho. Enriquecido com Óleo de Coco, Óleo de Amêndoas e Mel. Ideal para tipos de cabelo 2ABC, 3ABC e 4ABC (ondulados, cacheados e crespos). Leave-In (Sem Enxágue)."
+        
+        },
+        {
+        "produto": "Shampoo Pantene liso extremo com 750ml",
+        "imagem":"https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fs%2Fh%2Fshampoo-pantene-liso-extremo-com-750ml-1.jpg&w=256&q=75",
+        "marca":"Pantene",
+        "valor": "R$30,99",
+        "descrição":"Liso extremo desde o primeiro uso. Ajuda a alinhar cada fibra para obter cabelos extremamente lisos. A coleção foi elaborada com extrato de seda, óleo de amêndoas e provitaminas. A fórmula exclusiva Pro-V da Pantene penetra nos cabelos por uma infusão de ingredientes naturais, vitamina B5 e antioxidantes que ajudam na reposição de lipídios. O extrato de seda é reconhecido pelas propriedades que conferem maciez e poder protetor. O óleo de amêndoas é rico em vitaminas A, B e E, o que o torna um dos óleos mais completos em termos de benefícios para o cabelo. Usando o sistema Pantene"
+        }
+      ]
+    }
+  ]
+}
